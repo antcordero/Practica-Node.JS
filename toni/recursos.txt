@@ -1,1 +1,15 @@
-https://www.youtube.com/watch?v=ehTjz66L1_I
+- Introducción: https://www.youtube.com/watch?v=ehTjz66L1_I
+
+- Curso de Midudev (7 vídeos): https://www.youtube.com/watch?v=yB4n_K7dZV8&list=PLUofhDIg_38qm2oPOV-IRTTEKyrVBBaU7 
+
+- Node.js and Express.js (freecodecamp) en inglés: https://www.youtube.com/watch?v=Oe421EPjeBE
+
+- Curso completo en inglés: https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
+
+- Curso 2 completo en inglés: https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+
+- Web con teoría: https://www.freecodecamp.org/news/learn-node-js-and-express-in-spanish-course-for-beginners/?utm_source=chatgpt.com
+
+- Apis con Node.js y Express (en inglés): https://www.freecodecamp.org/news/apis-with-nodejs-and-express-course-in-spanish-for-beginners/?utm_source=chatgpt.com
+
+- Curso terórico completo con ejercicios (en inglés): https://www.codecademy.com/courses/learn-node-js/articles/welcome-to-learn-node-js
