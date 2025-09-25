@@ -2,6 +2,8 @@
 
 - Curso de Midudev (7 vídeos): https://www.youtube.com/watch?v=yB4n_K7dZV8&list=PLUofhDIg_38qm2oPOV-IRTTEKyrVBBaU7 
 
+- Curso Node.js: Rest Api con express y MySQL -> crear un backend completo: https://www.youtube.com/watch?v=F5oOq-FWUl4&list=PLnfMiP0v59hAUA6QJNKBwKJyq5_gFkCYL
+
 - Node.js and Express.js (freecodecamp) en inglés: https://www.youtube.com/watch?v=Oe421EPjeBE
 
 - Curso completo en inglés: https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
